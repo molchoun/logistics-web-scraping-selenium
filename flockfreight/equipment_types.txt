@@ -1,0 +1,14 @@
+{
+"equip_type": {
+    "53' Dry Van": "DRY_VAN__53_FT",
+    "48' Dry Van": "DRY_VAN__48_FT",
+    "53' Refrigerated Truck": "REEFER__53_FT",
+    "48' Refrigerated Truck": "REEFER__48_FT",
+    "28' Box Truck": "STRAIGHT_TRUCK__28_FT",
+    "26' Box Truck": "STRAIGHT_TRUCK__26_FT",
+    "24' Box Truck": "STRAIGHT_TRUCK__24_FT",
+    "20' Box Truck": "STRAIGHT_TRUCK__20_FT",
+    "18' Box Truck": "STRAIGHT_TRUCK__18_FT",
+    "9' Sprinter": "SPRINTER__9_FT",
+  }
+}

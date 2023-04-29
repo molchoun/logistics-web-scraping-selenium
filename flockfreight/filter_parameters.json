@@ -1,0 +1,15 @@
+{
+  "days": {
+    "day_interval": 30
+  },
+  "radius": {
+    "orig_radius": 500
+  },
+  "equip_type": {
+    "53' Dry Van": "DRY_VAN__53_FT"
+  },
+  "location":{
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

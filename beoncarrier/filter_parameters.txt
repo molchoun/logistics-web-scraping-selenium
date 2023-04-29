@@ -1,0 +1,5 @@
+{
+"day_interval": 30,
+"origin_radius": 250,
+"delivery_radius": 250
+}

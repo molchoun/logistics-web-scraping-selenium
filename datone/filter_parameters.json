@@ -1,0 +1,14 @@
+{
+  "days": {
+    "day_interval": 30
+  },
+  "radius": {
+    "distance": 450
+  },
+  "equip_type": {
+    "Vans (Standard)": "V"
+  },
+  "city":{
+    "name": "Los Angeles, CA"
+  }
+}
